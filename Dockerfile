@@ -15,4 +15,3 @@ RUN pip3 install -r requirements.txt
 #RUN chmod a+x /usr/local/bin/geckodriver
 #RUN apt-get install -y firefox
 
-# docker build -t linux_python:2.0 .
