@@ -1,4 +1,4 @@
-requests==2.20.0
+requests==2.31.0
 boto3==1.9.37
 slackclient==1.3.0
 beautifulsoup4==4.7.0
